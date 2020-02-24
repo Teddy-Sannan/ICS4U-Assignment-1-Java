@@ -1,6 +1,6 @@
 /****************************************************************************
  *
- * Created by: Ben Lapuhapo
+ * Plagrized by: Teddy Sannan which was plagirized by James Lee
  * Created on: Feb 18 2019
  * Created for: ICS4U
  * This program returns a version of the original string as follows:

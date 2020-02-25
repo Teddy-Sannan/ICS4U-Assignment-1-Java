@@ -1,7 +1,7 @@
 /****************************************************************************
  *
- * Created by: Ben Lapuhapo
- * Created on: Feb 18 2019
+ * Created by: Teddy Sannan
+ * Created on: February 2020
  * Created for: ICS4U
  * This program returns a version of the original string as follows:
  * each number from 0-9 that appears in the original string is replaced by how
